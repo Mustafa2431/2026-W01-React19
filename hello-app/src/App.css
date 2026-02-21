@@ -1,0 +1,13 @@
+.paragraph-style{
+  text-align: center;
+  padding:2px;
+  margin-left: 100px;
+  margin-right: 100px;
+  color:red;
+  background-color: orange;
+}
+
+.paragraph-style:hover{
+  color:green;
+  background-color: yellow;
+}
